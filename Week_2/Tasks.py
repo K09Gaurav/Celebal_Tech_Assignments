@@ -29,4 +29,19 @@ def average(array):
         tno += 1
     
     return (sumd/tno)
-        
+
+
+"""
+Q3
+
+"""
+
+import textwrap
+
+def wrap(string, max_width):
+    return textwrap.fill(string,max_width)
+
+"""
+Q4
+
+"""
