@@ -1,0 +1,66 @@
+-- Q1
+
+select * from CITY;
+
+--Q2
+
+SELECT * 
+FROM CITY
+WHERE ID = 1661;
+
+--Q3
+
+SELECT NAME
+FROM Employee
+order by NAME;
+
+--Q4
+
+SELECT *
+FROM CITY
+WHERE COUNTRYCODE = 'JPN';
+
+--Q5
+
+SELECT CITY, STATE
+FROM STATION;
+
+--Q6
+
+SELECT DISTINCT(CITY)
+FROM STATION
+WHERE ID%2=0;
+
+--Q7
+
+SELECT (COUNT(CITY) - COUNT(DISTINCT(CITY)))
+FROM STATION;
+
+--Q8
+
+
+SELECT TOP 1 CITY, LEN(CITY) AS SMOL
+FROM STATION
+ORDER BY SMOL, CITY;
+
+SELECT TOP 1 CITY, LEN(CITY) AS LONGE
+FROM STATION
+ORDER BY LONGE DESC, CITY;
+
+--Q9
+
+select FLOOR(AVG(POPULATION))
+from CITY;
+
+--Q10
+
+select 
+    cn.continent,
+    floor(avg(c.POPULATION))
+from 
+    city c
+    inner join 
+    country cn
+on c.countrycode = cn.code
+group by cn.continent
+
