@@ -1,0 +1,45 @@
+1. Export Data from Database to CSV, Parquet, and Avro File Formats:
+
+   Connect to your database and write queries to select the desired data.
+
+  - To CSV:
+    - Utilize the 'Export Data' wizard in SSMS:
+        - Right-click the database, navigate to 'Tasks', and select 'Export Data'.
+        - Choose your data source (SQL Server).
+        - For the destination, select 'Flat File Destination' and configure the path and file format (CSV).
+        - Specify the query or tables to export.
+        - Export data to a CSV file.
+
+  - To Parquet and Avro:*
+    - SQL Server does not natively support exporting to Parquet or Avro formats.
+
+2. Configure Scheduled and Event Triggers to Automate Pipeline Processes:
+- We can use SQL Server Agent
+  - Open SSMS and expand the 'SQL Server Agent'.
+  - Right-click 'Jobs' and select 'New Job'.
+  - Provide a name for the job.
+  - Under 'Steps', click 'New' and add a step to run your SQL script.
+  - Under 'Schedules', click 'New' to create a schedule for the job.
+  - Set the frequency and time for the job to run.
+  - Save and enable the job.
+
+  *Event Triggers:*
+  - Use SQL Server Event Notifications.
+
+3. Copy All Tables from One Database to Another:
+
+  - Use the 'Generate Scripts' wizard:
+    - Right-click the source database, navigate to 'Tasks', and select 'Generate Scripts'.
+    - Select all tables.
+    - Choose to save the script to a file or clipboard.
+    - Run the generated script on the target database.
+
+
+4. Copy Selective Tables with Selective Columns from One Database to Another:
+
+    -SQL query
+      ```
+      INSERT INTO TargetDatabase.dbo.TargetTable (Column1, Column2, ...)
+      SELECT Column1, Column2, ...
+      FROM SourceDatabase.dbo.SourceTable;
+      ```
