@@ -1,0 +1,834 @@
+[
+    {
+        "name": {
+            "common": "Taiwan",
+            "official": "Republic of China (Taiwan)",
+            "nativeName": {
+                "zho": {
+                    "official": "\u4e2d\u83ef\u6c11\u570b",
+                    "common": "\u53f0\u7063"
+                }
+            }
+        },
+        "tld": [
+            ".tw",
+            ".\u53f0\u7063",
+            ".\u53f0\u6e7e"
+        ],
+        "cca2": "TW",
+        "ccn3": "158",
+        "cca3": "TWN",
+        "cioc": "TPE",
+        "independent": false,
+        "status": "officially-assigned",
+        "unMember": false,
+        "currencies": {
+            "TWD": {
+                "name": "New Taiwan dollar",
+                "symbol": "$"
+            }
+        },
+        "idd": {
+            "root": "+8",
+            "suffixes": [
+                "86"
+            ]
+        },
+        "capital": [
+            "Taipei"
+        ],
+        "altSpellings": [
+            "TW",
+            "T\u00e1iw\u0101n",
+            "Republic of China",
+            "\u4e2d\u83ef\u6c11\u570b",
+            "Zh\u014dnghu\u00e1 M\u00edngu\u00f3",
+            "Chinese Taipei"
+        ],
+        "region": "Asia",
+        "subregion": "Eastern Asia",
+        "languages": {
+            "zho": "Chinese"
+        },
+        "translations": {
+            "ara": {
+                "official": "\u062c\u0645\u0647\u0648\u0631\u064a\u0629 \u0627\u0644\u0635\u064a\u0646 (\u062a\u0627\u064a\u0648\u0627\u0646)",
+                "common": "\u062a\u0627\u064a\u0648\u0627\u0646"
+            },
+            "bre": {
+                "official": "Republik Sina (Taiwan)",
+                "common": "Taiwan"
+            },
+            "ces": {
+                "official": "\u010c\u00ednsk\u00e1 republika",
+                "common": "Tchaj-wan"
+            },
+            "cym": {
+                "official": "Republic of China (Taiwan)",
+                "common": "Taiwan"
+            },
+            "deu": {
+                "official": "Republik China (Taiwan)",
+                "common": "Taiwan"
+            },
+            "est": {
+                "official": "Taiwani",
+                "common": "Taiwan"
+            },
+            "fin": {
+                "official": "Kiinan tasavalta",
+                "common": "Taiwan"
+            },
+            "fra": {
+                "official": "R\u00e9publique de Chine (Ta\u00efwan)",
+                "common": "Ta\u00efwan"
+            },
+            "hrv": {
+                "official": "Republika Kina",
+                "common": "Tajvan"
+            },
+            "hun": {
+                "official": "K\u00ednai K\u00f6zt\u00e1rsas\u00e1g",
+                "common": "Tajvan"
+            },
+            "ita": {
+                "official": "Repubblica cinese (Taiwan)",
+                "common": "Taiwan"
+            },
+            "jpn": {
+                "official": "\u4e2d\u83ef\u6c11\u56fd",
+                "common": "\u53f0\u6e7e"
+            },
+            "kor": {
+                "official": "\uc911\ud654\ubbfc\uad6d",
+                "common": "\ub300\ub9cc"
+            },
+            "nld": {
+                "official": "Republiek China (Taiwan)",
+                "common": "Taiwan"
+            },
+            "per": {
+                "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u0686\u06cc\u0646",
+                "common": "\u062a\u0627\u06cc\u0648\u0627\u0646"
+            },
+            "pol": {
+                "official": "Republika Chi\u0144ska (Tajwan)",
+                "common": "Tajwan"
+            },
+            "por": {
+                "official": "Rep\u00fablica da China",
+                "common": "Ilha Formosa"
+            },
+            "rus": {
+                "official": "\u041a\u0438\u0442\u0430\u0439\u0441\u043a\u0430\u044f \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430",
+                "common": "\u0422\u0430\u0439\u0432\u0430\u043d\u044c"
+            },
+            "slk": {
+                "official": "\u010c\u00ednska republika",
+                "common": "Taiwan"
+            },
+            "spa": {
+                "official": "Rep\u00fablica de China en Taiw\u00e1n",
+                "common": "Taiw\u00e1n"
+            },
+            "srp": {
+                "official": "\u0420\u0435\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u041a\u0438\u043d\u0430",
+                "common": "\u0422\u0430\u0458\u0432\u0430\u043d"
+            },
+            "swe": {
+                "official": "Republiken Kina",
+                "common": "Taiwan"
+            },
+            "tur": {
+                "official": "\u00c7in Cumhuriyeti (Tayvan)",
+                "common": "Tayvan"
+            },
+            "urd": {
+                "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0686\u06cc\u0646 (\u062a\u0627\u0626\u06cc\u0648\u0627\u0646)",
+                "common": "\u062a\u0627\u0626\u06cc\u0648\u0627\u0646"
+            }
+        },
+        "latlng": [
+            23.5,
+            121.0
+        ],
+        "landlocked": false,
+        "area": 36193.0,
+        "demonyms": {
+            "eng": {
+                "f": "Taiwanese",
+                "m": "Taiwanese"
+            },
+            "fra": {
+                "f": "Ta\u00efwanaise",
+                "m": "Ta\u00efwanais"
+            }
+        },
+        "flag": "\ud83c\uddf9\ud83c\uddfc",
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/HgMKFQjNadF3Wa6B6",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/449220"
+        },
+        "population": 23503349,
+        "fifa": "TPE",
+        "car": {
+            "signs": [
+                "RC"
+            ],
+            "side": "right"
+        },
+        "timezones": [
+            "UTC+08:00"
+        ],
+        "continents": [
+            "Asia"
+        ],
+        "flags": {
+            "png": "https://flagcdn.com/w320/tw.png",
+            "svg": "https://flagcdn.com/tw.svg"
+        },
+        "coatOfArms": {
+            "png": "https://mainfacts.com/media/images/coats_of_arms/tw.png",
+            "svg": "https://mainfacts.com/media/images/coats_of_arms/tw.svg"
+        },
+        "startOfWeek": "monday",
+        "capitalInfo": {
+            "latlng": [
+                25.03,
+                121.52
+            ]
+        },
+        "postalCode": {
+            "format": "#####",
+            "regex": "^(\\d{5})$"
+        }
+    },
+    {
+        "name": {
+            "common": "Hong Kong",
+            "official": "Hong Kong Special Administrative Region of the People's Republic of China",
+            "nativeName": {
+                "eng": {
+                    "official": "Hong Kong Special Administrative Region of the People's Republic of China",
+                    "common": "Hong Kong"
+                },
+                "zho": {
+                    "official": "\u4e2d\u534e\u4eba\u6c11\u5171\u548c\u56fd\u9999\u6e2f\u7279\u522b\u884c\u653f\u533a",
+                    "common": "\u9999\u6e2f"
+                }
+            }
+        },
+        "tld": [
+            ".hk",
+            ".\u9999\u6e2f"
+        ],
+        "cca2": "HK",
+        "ccn3": "344",
+        "cca3": "HKG",
+        "cioc": "HKG",
+        "independent": false,
+        "status": "officially-assigned",
+        "unMember": false,
+        "currencies": {
+            "HKD": {
+                "name": "Hong Kong dollar",
+                "symbol": "$"
+            }
+        },
+        "idd": {
+            "root": "+8",
+            "suffixes": [
+                "52"
+            ]
+        },
+        "capital": [
+            "City of Victoria"
+        ],
+        "altSpellings": [
+            "HK"
+        ],
+        "region": "Asia",
+        "subregion": "Eastern Asia",
+        "languages": {
+            "eng": "English",
+            "zho": "Chinese"
+        },
+        "translations": {
+            "ara": {
+                "official": "\u0645\u0646\u0637\u0642\u0629 \u0647\u0648\u0646\u063a \u0643\u0648\u0646\u063a \u0627\u0644\u0627\u062f\u0627\u0631\u064a\u0629 \u0627\u0644\u062a\u0627\u0628\u0639\u0629 \u0644\u062c\u0645\u0647\u0648\u0631\u064a\u0629 \u0627\u0644\u0635\u064a\u0646 \u0627\u0644\u0634\u0639\u0628\u064a\u0629",
+                "common": "\u0647\u0648\u0646\u063a \u0643\u0648\u0646\u063a"
+            },
+            "bre": {
+                "official": "Rannvro velestradurel arbennik Hong Kong eus Republik pobl Sina",
+                "common": "Hong Kong"
+            },
+            "ces": {
+                "official": "Zvl\u00e1\u0161tn\u00ed administrativn\u00ed oblast \u010c\u00ednsk\u00e9 lidov\u00e9 republiky Hongkong",
+                "common": "Hongkong"
+            },
+            "cym": {
+                "official": "Hong Kong Special Administrative Region of the People's Republic of China",
+                "common": "Hong Kong"
+            },
+            "deu": {
+                "official": "Sonderverwaltungszone Hongkong der Volksrepublik China",
+                "common": "Hongkong"
+            },
+            "est": {
+                "official": "Hongkongi erihalduspiirkond",
+                "common": "Hongkong"
+            },
+            "fin": {
+                "official": "Hong Kongin erityishallintoalue",
+                "common": "Hongkong"
+            },
+            "fra": {
+                "official": "R\u00e9gion administrative sp\u00e9ciale de Hong Kong de la R\u00e9publique populaire de Chine",
+                "common": "Hong Kong"
+            },
+            "hrv": {
+                "official": "Hong Kong Posebnog upravnog podru\u010djaNarodne Republike Kine",
+                "common": "Hong Kong"
+            },
+            "hun": {
+                "official": "Hongkong",
+                "common": "Hongkong"
+            },
+            "ita": {
+                "official": "Hong Kong Regione amministrativa speciale della Repubblica Popolare Cinese",
+                "common": "Hong Kong"
+            },
+            "jpn": {
+                "official": "\u4e2d\u83ef\u4eba\u6c11\u5171\u548c\u56fd\u9999\u6e2f\u7279\u5225\u884c\u653f\u533a",
+                "common": "\u9999\u6e2f"
+            },
+            "kor": {
+                "official": "\uc911\ud654\uc778\ubbfc\uacf5\ud654\uad6d \ud64d\ucf69 \ud2b9\ubcc4\ud589\uc815\uad6c",
+                "common": "\ud64d\ucf69"
+            },
+            "nld": {
+                "official": "Hong Kong Speciale Administratieve Regio van de Volksrepubliek China",
+                "common": "Hongkong"
+            },
+            "per": {
+                "official": "\u0647\u064f\u0646\u06af \u06a9\u064f\u0646\u06af",
+                "common": "\u0647\u064f\u0646\u06af \u06a9\u064f\u0646\u06af"
+            },
+            "pol": {
+                "official": "Specjalny Region Administracyjny Chi\u0144skiej Republiki Ludowej Hongkong",
+                "common": "Hongkong"
+            },
+            "por": {
+                "official": "Hong Kong Regi\u00e3o Administrativa Especial da Rep\u00fablica Popular da China",
+                "common": "Hong Kong"
+            },
+            "rus": {
+                "official": "Hong Kong \u0421\u043f\u0435\u0446\u0438\u0430\u043b\u044c\u043d\u044b\u0439 \u0430\u0434\u043c\u0438\u043d\u0438\u0441\u0442\u0440\u0430\u0442\u0438\u0432\u043d\u044b\u0439 \u0440\u0430\u0439\u043e\u043d \u041a\u0438\u0442\u0430\u0439\u0441\u043a\u043e\u0439 \u041d\u0430\u0440\u043e\u0434\u043d\u043e\u0439 \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0438 \u041a\u0438\u0442\u0430\u044f",
+                "common": "\u0413\u043e\u043d\u043a\u043e\u043d\u0433"
+            },
+            "slk": {
+                "official": "\u0160peci\u00e1lna administrat\u00edvna oblas\u0165\u010c\u00ednskej \u013eudovej republiky Hongkong",
+                "common": "Hongkong"
+            },
+            "spa": {
+                "official": "Hong Kong Regi\u00f3n Administrativa Especial de la Rep\u00fablica Popular China",
+                "common": "Hong Kong"
+            },
+            "srp": {
+                "official": "\u0425\u043e\u043d\u0433\u043a\u043e\u043d\u0433 \u0441\u043f\u0435\u0446\u0438\u0458\u0430\u043b\u043d\u0430 \u0430\u0434\u043c\u0438\u043d\u0438\u0441\u0442\u0440\u0430\u0442\u0438\u0432\u043d\u0430 \u043e\u0431\u043b\u0430\u0441\u0442 \u041d\u0430\u0440\u043e\u0434\u043d\u0435 \u0420\u0435\u043f\u0443\u0431\u043b\u0438\u043a\u0435 \u041a\u0438\u043d\u0435",
+                "common": "\u0425\u043e\u043d\u0433\u043a\u043e\u043d\u0433"
+            },
+            "swe": {
+                "official": "Hongkong",
+                "common": "Hongkong"
+            },
+            "tur": {
+                "official": "\u00c7in Halk Cumhuriyeti Hong Kong \u00d6zel \u0130dari B\u00f6lgesi",
+                "common": "Hong Kong"
+            },
+            "urd": {
+                "official": "\u06c1\u0627\u0646\u06af \u06a9\u0627\u0646\u06af \u0639\u0648\u0627\u0645\u06cc \u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0686\u06cc\u0646 \u06a9\u0627 \u062e\u0635\u0648\u0635\u06cc \u0627\u0646\u062a\u0638\u0627\u0645\u06cc \u0639\u0644\u0627\u0642\u06c1",
+                "common": "\u06c1\u0627\u0646\u06af \u06a9\u0627\u0646\u06af"
+            }
+        },
+        "latlng": [
+            22.267,
+            114.188
+        ],
+        "landlocked": false,
+        "borders": [
+            "CHN"
+        ],
+        "area": 1104.0,
+        "demonyms": {
+            "eng": {
+                "f": "Hong Konger",
+                "m": "Hong Konger"
+            },
+            "fra": {
+                "f": "Hongkongaise",
+                "m": "Hongkongais"
+            }
+        },
+        "flag": "\ud83c\udded\ud83c\uddf0",
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/1sEnNmT47ffrC8MU8",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/913110"
+        },
+        "population": 7500700,
+        "fifa": "HKG",
+        "car": {
+            "signs": [
+                "HK"
+            ],
+            "side": "left"
+        },
+        "timezones": [
+            "UTC+08:00"
+        ],
+        "continents": [
+            "Asia"
+        ],
+        "flags": {
+            "png": "https://flagcdn.com/w320/hk.png",
+            "svg": "https://flagcdn.com/hk.svg"
+        },
+        "coatOfArms": {
+            "png": "https://mainfacts.com/media/images/coats_of_arms/hk.png",
+            "svg": "https://mainfacts.com/media/images/coats_of_arms/hk.svg"
+        },
+        "startOfWeek": "monday",
+        "capitalInfo": {
+            "latlng": [
+                22.267,
+                114.188
+            ]
+        }
+    },
+    {
+        "name": {
+            "common": "China",
+            "official": "People's Republic of China",
+            "nativeName": {
+                "zho": {
+                    "official": "\u4e2d\u534e\u4eba\u6c11\u5171\u548c\u56fd",
+                    "common": "\u4e2d\u56fd"
+                }
+            }
+        },
+        "tld": [
+            ".cn",
+            ".\u4e2d\u56fd",
+            ".\u4e2d\u570b",
+            ".\u516c\u53f8",
+            ".\u7f51\u7edc"
+        ],
+        "cca2": "CN",
+        "ccn3": "156",
+        "cca3": "CHN",
+        "cioc": "CHN",
+        "independent": true,
+        "status": "officially-assigned",
+        "unMember": true,
+        "currencies": {
+            "CNY": {
+                "name": "Chinese yuan",
+                "symbol": "\u00a5"
+            }
+        },
+        "idd": {
+            "root": "+8",
+            "suffixes": [
+                "6"
+            ]
+        },
+        "capital": [
+            "Beijing"
+        ],
+        "altSpellings": [
+            "CN",
+            "Zh\u014dnggu\u00f3",
+            "Zhongguo",
+            "Zhonghua",
+            "People's Republic of China",
+            "\u4e2d\u534e\u4eba\u6c11\u5171\u548c\u56fd",
+            "Zh\u014dnghu\u00e1 R\u00e9nm\u00edn G\u00f2ngh\u00e9gu\u00f3"
+        ],
+        "region": "Asia",
+        "subregion": "Eastern Asia",
+        "languages": {
+            "zho": "Chinese"
+        },
+        "translations": {
+            "ara": {
+                "official": "\u062c\u0645\u0647\u0648\u0631\u064a\u0629 \u0627\u0644\u0635\u064a\u0646 \u0627\u0644\u0634\u0639\u0628\u064a\u0629",
+                "common": "\u0627\u0644\u0635\u064a\u0646"
+            },
+            "bre": {
+                "official": "Republik Pobl Sina",
+                "common": "Sina"
+            },
+            "ces": {
+                "official": "\u010c\u00ednsk\u00e1 lidov\u00e1 republika",
+                "common": "\u010c\u00edna"
+            },
+            "cym": {
+                "official": "Gweriniaeth Pobl Tsieina",
+                "common": "Tsieina"
+            },
+            "deu": {
+                "official": "Volksrepublik China",
+                "common": "China"
+            },
+            "est": {
+                "official": "Hiina Rahvavabariik",
+                "common": "Hiina"
+            },
+            "fin": {
+                "official": "Kiinan kansantasavalta",
+                "common": "Kiina"
+            },
+            "fra": {
+                "official": "R\u00e9publique populaire de Chine",
+                "common": "Chine"
+            },
+            "hrv": {
+                "official": "Narodna Republika Kina",
+                "common": "Kina"
+            },
+            "hun": {
+                "official": "K\u00ednai N\u00e9pk\u00f6zt\u00e1rsas\u00e1g",
+                "common": "K\u00edna"
+            },
+            "ita": {
+                "official": "Repubblica popolare cinese",
+                "common": "Cina"
+            },
+            "jpn": {
+                "official": "\u4e2d\u83ef\u4eba\u6c11\u5171\u548c\u56fd",
+                "common": "\u4e2d\u56fd"
+            },
+            "kor": {
+                "official": "\uc911\ud654\uc778\ubbfc\uacf5\ud654\uad6d",
+                "common": "\uc911\uad6d"
+            },
+            "nld": {
+                "official": "Volksrepubliek China",
+                "common": "China"
+            },
+            "per": {
+                "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u062e\u0644\u0642 \u0686\u06cc\u0646",
+                "common": "\u0686\u06cc\u0646"
+            },
+            "pol": {
+                "official": "Chi\u0144ska Republika Ludowa",
+                "common": "Chiny"
+            },
+            "por": {
+                "official": "Rep\u00fablica Popular da China",
+                "common": "China"
+            },
+            "rus": {
+                "official": "\u041d\u0430\u0440\u043e\u0434\u043d\u0430\u044f \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u041a\u0438\u0442\u0430\u0439",
+                "common": "\u041a\u0438\u0442\u0430\u0439"
+            },
+            "slk": {
+                "official": "\u010c\u00ednska \u013eudov\u00e1 republika",
+                "common": "\u010c\u00edna"
+            },
+            "spa": {
+                "official": "Rep\u00fablica Popular de China",
+                "common": "China"
+            },
+            "srp": {
+                "official": "\u041d\u0430\u0440\u043e\u0434\u043d\u0430 \u0420\u0435\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u041a\u0438\u043d\u0430",
+                "common": "\u041a\u0438\u043d\u0430"
+            },
+            "swe": {
+                "official": "Folkrepubliken Kina",
+                "common": "Kina"
+            },
+            "tur": {
+                "official": "\u00c7in Halk Cumhuriyeti",
+                "common": "\u00c7in"
+            },
+            "urd": {
+                "official": "\u0639\u0648\u0627\u0645\u06cc \u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0686\u06cc\u0646",
+                "common": "\u0686\u06cc\u0646"
+            }
+        },
+        "latlng": [
+            35.0,
+            105.0
+        ],
+        "landlocked": false,
+        "borders": [
+            "AFG",
+            "BTN",
+            "MMR",
+            "HKG",
+            "IND",
+            "KAZ",
+            "NPL",
+            "PRK",
+            "KGZ",
+            "LAO",
+            "MAC",
+            "MNG",
+            "PAK",
+            "RUS",
+            "TJK",
+            "VNM"
+        ],
+        "area": 9706961.0,
+        "demonyms": {
+            "eng": {
+                "f": "Chinese",
+                "m": "Chinese"
+            },
+            "fra": {
+                "f": "Chinoise",
+                "m": "Chinois"
+            }
+        },
+        "flag": "\ud83c\udde8\ud83c\uddf3",
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/p9qC6vgiFRRXzvGi7",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/270056"
+        },
+        "population": 1402112000,
+        "gini": {
+            "2016": 38.5
+        },
+        "fifa": "CHN",
+        "car": {
+            "signs": [
+                "RC"
+            ],
+            "side": "right"
+        },
+        "timezones": [
+            "UTC+08:00"
+        ],
+        "continents": [
+            "Asia"
+        ],
+        "flags": {
+            "png": "https://flagcdn.com/w320/cn.png",
+            "svg": "https://flagcdn.com/cn.svg",
+            "alt": "The flag of China has a red field. In the canton are five yellow five-pointed stars \u2014 a large star and four smaller stars arranged in a vertical arc on the fly side of the large star."
+        },
+        "coatOfArms": {
+            "png": "https://mainfacts.com/media/images/coats_of_arms/cn.png",
+            "svg": "https://mainfacts.com/media/images/coats_of_arms/cn.svg"
+        },
+        "startOfWeek": "monday",
+        "capitalInfo": {
+            "latlng": [
+                39.92,
+                116.38
+            ]
+        },
+        "postalCode": {
+            "format": "######",
+            "regex": "^(\\d{6})$"
+        }
+    },
+    {
+        "name": {
+            "common": "Macau",
+            "official": "Macao Special Administrative Region of the People's Republic of China",
+            "nativeName": {
+                "por": {
+                    "official": "Regi\u00e3o Administrativa Especial de Macau da Rep\u00fablica Popular da China",
+                    "common": "Macau"
+                },
+                "zho": {
+                    "official": "\u4e2d\u534e\u4eba\u6c11\u5171\u548c\u56fd\u6fb3\u95e8\u7279\u522b\u884c\u653f\u533a",
+                    "common": "\u6fb3\u95e8"
+                }
+            }
+        },
+        "tld": [
+            ".mo"
+        ],
+        "cca2": "MO",
+        "ccn3": "446",
+        "cca3": "MAC",
+        "independent": false,
+        "status": "officially-assigned",
+        "unMember": false,
+        "currencies": {
+            "MOP": {
+                "name": "Macanese pataca",
+                "symbol": "P"
+            }
+        },
+        "idd": {
+            "root": "+8",
+            "suffixes": [
+                "53"
+            ]
+        },
+        "altSpellings": [
+            "MO",
+            "\u6fb3\u95e8",
+            "Macao",
+            "Macao Special Administrative Region of the People's Republic of China",
+            "\u4e2d\u83ef\u4eba\u6c11\u5171\u548c\u570b\u6fb3\u9580\u7279\u5225\u884c\u653f\u5340",
+            "Regi\u00e3o Administrativa Especial de Macau da Rep\u00fablica Popular da China"
+        ],
+        "region": "Asia",
+        "subregion": "Eastern Asia",
+        "languages": {
+            "por": "Portuguese",
+            "zho": "Chinese"
+        },
+        "translations": {
+            "ara": {
+                "official": "\u0645\u0646\u0637\u0642\u0629 \u0645\u0627\u0643\u0627\u0648 \u0627\u0644\u0625\u062f\u0627\u0631\u064a\u0629 \u0627\u0644\u062a\u0627\u0628\u0639\u0629 \u0644\u062c\u0645\u0647\u0648\u0631\u064a\u0629 \u0627\u0644\u0635\u064a\u0646 \u0627\u0644\u0634\u0639\u0628\u064a\u0629",
+                "common": "\u0645\u0627\u0643\u0627\u0648"
+            },
+            "bre": {
+                "official": "Rannvro velestradurel arbennik Makao eus Republik pobl Sina",
+                "common": "Makao"
+            },
+            "ces": {
+                "official": "Zvl\u00e1\u0161tn\u00ed spr\u00e1vn\u00ed oblast \u010c\u00ednsk\u00e9 lidov\u00e9 republiky Macao",
+                "common": "Macao"
+            },
+            "cym": {
+                "official": "Macao Special Administrative Region of the People's Republic of China",
+                "common": "Macau"
+            },
+            "deu": {
+                "official": "Sonderverwaltungsregion Macau der Volksrepublik China",
+                "common": "Macao"
+            },
+            "est": {
+                "official": "Macau erihalduspiirkond",
+                "common": "Macau"
+            },
+            "fin": {
+                "official": "Macaon Kiinan kansantasavallan erityishallintoalue",
+                "common": "Macao"
+            },
+            "fra": {
+                "official": "R\u00e9gion administrative sp\u00e9ciale de Macao de la R\u00e9publique populaire de Chine",
+                "common": "Macao"
+            },
+            "hrv": {
+                "official": "Makao Posebnog upravnog podru\u010djaNarodne Republike Kine",
+                "common": "Makao"
+            },
+            "hun": {
+                "official": "Maka\u00f3",
+                "common": "Maka\u00f3"
+            },
+            "ita": {
+                "official": "Macao Regione amministrativa speciale della Repubblica Popolare Cinese",
+                "common": "Macao"
+            },
+            "jpn": {
+                "official": "\u4e2d\u83ef\u4eba\u6c11\u5171\u548c\u56fd\u30de\u30ab\u30aa\u7279\u5225\u884c\u653f\u533a",
+                "common": "\u30de\u30ab\u30aa"
+            },
+            "kor": {
+                "official": "\uc911\ud654\uc778\ubbfc\uacf5\ud654\uad6d \ub9c8\uce74\uc624 \ud2b9\ubcc4\ud589\uc815\uad6c",
+                "common": "\ub9c8\uce74\uc624"
+            },
+            "nld": {
+                "official": "Speciale Administratieve Regio Macau van de Volksrepubliek China",
+                "common": "Macao"
+            },
+            "per": {
+                "official": "\u0645\u0627\u06a9\u0627\u0626\u0648",
+                "common": "\u0645\u0627\u06a9\u0627\u0626\u0648"
+            },
+            "pol": {
+                "official": "Specjalny Region Administracyjny Chi\u0144skiej Republiki Ludowej Makau",
+                "common": "Makau"
+            },
+            "por": {
+                "official": "Macau Regi\u00e3o Administrativa Especial da Rep\u00fablica Popular da China",
+                "common": "Macau"
+            },
+            "rus": {
+                "official": "\u0421\u043f\u0435\u0446\u0438\u0430\u043b\u044c\u043d\u044b\u0439 \u0430\u0434\u043c\u0438\u043d\u0438\u0441\u0442\u0440\u0430\u0442\u0438\u0432\u043d\u044b\u0439 \u0440\u0430\u0439\u043e\u043d \u041c\u0430\u043a\u0430\u043e \u041a\u0438\u0442\u0430\u0439\u0441\u043a\u043e\u0439 \u041d\u0430\u0440\u043e\u0434\u043d\u043e\u0439 \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0438 \u041a\u0438\u0442\u0430\u0439",
+                "common": "\u041c\u0430\u043a\u0430\u043e"
+            },
+            "slk": {
+                "official": "Macao, \u0160peci\u00e0lna administrat\u00edvna oblas\u0166",
+                "common": "Macao"
+            },
+            "spa": {
+                "official": "Macao, Regi\u00f3n Administrativa Especial de la Rep\u00fablica Popular China",
+                "common": "Macao"
+            },
+            "srp": {
+                "official": "\u041c\u0430\u043a\u0430\u043e \u0441\u043f\u0435\u0446\u0438\u0458\u0430\u043b\u043d\u0430 \u0430\u0434\u043c\u0438\u043d\u0438\u0441\u0442\u0440\u0430\u0442\u0438\u0432\u043d\u0430 \u043e\u0431\u043b\u0430\u0441\u0442 \u041d\u0430\u0440\u043e\u0434\u043d\u0435 \u0420\u0435\u043f\u0443\u0431\u043b\u0438\u043a\u0435 \u041a\u0438\u043d\u0435",
+                "common": "\u041c\u0430\u043a\u0430\u043e"
+            },
+            "swe": {
+                "official": "Macao",
+                "common": "Macao"
+            },
+            "tur": {
+                "official": "\u00c7in Halk Cumhuriyeti Makao \u00d6zel \u0130dari B\u00f6lgesi",
+                "common": "Makao"
+            },
+            "urd": {
+                "official": "\u0645\u06a9\u0627\u0624 \u0639\u0648\u0627\u0645\u06cc \u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0686\u06cc\u0646 \u06a9\u0627 \u062e\u0635\u0648\u0635\u06cc \u0627\u0646\u062a\u0638\u0627\u0645\u06cc \u0639\u0644\u0627\u0642\u06c1",
+                "common": "\u0645\u06a9\u0627\u0624"
+            }
+        },
+        "latlng": [
+            22.16666666,
+            113.55
+        ],
+        "landlocked": false,
+        "borders": [
+            "CHN"
+        ],
+        "area": 30.0,
+        "demonyms": {
+            "eng": {
+                "f": "Macanese",
+                "m": "Macanese"
+            },
+            "fra": {
+                "f": "Macanaise",
+                "m": "Macanais"
+            }
+        },
+        "flag": "\ud83c\uddf2\ud83c\uddf4",
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/whymRdk3dZFfAAs4A",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/1867188"
+        },
+        "population": 649342,
+        "fifa": "MAC",
+        "car": {
+            "signs": [
+                "MO"
+            ],
+            "side": "left"
+        },
+        "timezones": [
+            "UTC+08:00"
+        ],
+        "continents": [
+            "Asia"
+        ],
+        "flags": {
+            "png": "https://flagcdn.com/w320/mo.png",
+            "svg": "https://flagcdn.com/mo.svg"
+        },
+        "coatOfArms": {
+            "png": "https://mainfacts.com/media/images/coats_of_arms/mo.png",
+            "svg": "https://mainfacts.com/media/images/coats_of_arms/mo.svg"
+        },
+        "startOfWeek": "monday",
+        "capitalInfo": {}
+    }
+]
