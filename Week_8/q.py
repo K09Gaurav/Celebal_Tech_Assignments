@@ -1,13 +1,14 @@
-#  Q2.2
+# Q1 wcan not be completed as the resource  file / Data File is Unavailaible
 import pandas as pd
 import json
+#  Q2.2
 def Q2_2():
     data = json.loads(json_data.json)
     flattened_data = pd.json_normalize(data)
     df = pd.DataFrame(flattened_data)
     print(df)
     df.to_csv('flattened_data.csv', index=False)
-
+#  Q2.3
 def Q2_3():
     data = json.loads(json_data.json)
     flattened_data = pd.json_normalize(data)
